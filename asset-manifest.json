@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Maktaba-QR-Code/static/css/main.3f30b6d3.css",
+    "main.css": "/Maktaba-QR-Code/static/css/main.26fb9c4c.css",
     "main.js": "/Maktaba-QR-Code/static/js/main.63a7a81c.js",
     "index.html": "/Maktaba-QR-Code/index.html",
-    "main.3f30b6d3.css.map": "/Maktaba-QR-Code/static/css/main.3f30b6d3.css.map",
+    "main.26fb9c4c.css.map": "/Maktaba-QR-Code/static/css/main.26fb9c4c.css.map",
     "main.63a7a81c.js.map": "/Maktaba-QR-Code/static/js/main.63a7a81c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f30b6d3.css",
+    "static/css/main.26fb9c4c.css",
     "static/js/main.63a7a81c.js"
   ]
 }
